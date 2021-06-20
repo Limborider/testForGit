@@ -2,5 +2,6 @@ public Hello{
 public static void main(args[] String){
   SystemPrintOut("Hello world :)");
   int a = 3;
+  double b =3.3;
  }
 }
